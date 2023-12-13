@@ -1,8 +1,7 @@
 package practica7;
 public class adamGitHub {
   public static void main(String[] args) {
-	System.out.println("Hola GitHub, sóc Adam Aaloul"); 
-	System.out.println("Cambio del GitHub");
+	System.out.println("Hola estoy en la nueva rama "); 
 	
     imprimirNumeros();
   }
